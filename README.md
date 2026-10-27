@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Course Status"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Course Status"/>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 Welcome to the **Git Course at AppsClub**!
 
-This repository contains the learning materials, presentations, and practical exercises used throughout the course.
+This repository contains the learning materials, presentations, PDF resources, and practical exercises used throughout the course.
 
-The goal is to introduce learners to version control, help them understand Git's essential concepts, and teach them how to manage projects and collaborate with others using tools such as GitHub and GitLab.
+The goal is to introduce learners to version control, help them understand Git's essential concepts, and teach them how to manage projects and collaborate with others using platforms such as GitHub and GitLab.
 
-Whether you're a beginner or a student working on your first development projects, learning Git is an essential step toward becoming a better developer.
+Designed for beginners, this course combines theoretical explanations with practical demonstrations to help students build a solid foundation in Git and collaborative development.
 
 ## 📂 Repository Structure
 
@@ -30,9 +30,11 @@ Whether you're a beginner or a student working on your first development project
 Git_Course_Appsclub/
 ├── Session1/       # Introduction to Git
 ├── Session2/       # Branching & Collaboration
-├── Session3/       # Coming Soon
+├── Session3/       # Advanced Collaboration Workflows
 └── README.md
 ```
+
+Each session folder contains its corresponding learning materials. The Session 3 folder also includes a PDF resource.
 
 ## 📚 Course Sessions
 
@@ -64,11 +66,21 @@ Topics include:
 - Connecting local projects to GitHub or GitLab
 - Understanding collaborative workflows
 
-### 🟣 Session 3 — Coming Soon 🚧
+### 🟣 Session 3 — GitHub Collaboration & Pull Requests
 
-The course continues with another session featuring more concepts and practical exercises.
+Explore how developers collaborate on shared projects using GitHub and understand the contribution workflow.
 
-**Stay tuned for updates!**
+Topics include:
+- Understanding GitHub repositories and forks
+- Cloning repositories locally
+- Collaborator access and external contributions
+- Understanding pull requests (PRs) and merge requests (MRs)
+- Creating and reviewing pull requests
+- Understanding repository permissions
+- Using rulesets to protect branches and prevent accidental changes
+- Exploring collaborative development workflows
+
+📄 **Session 3 materials:** Check the `Session3/` folder for the PDF resource.
 
 ## 🛠️ Tools & Technologies
 
@@ -90,7 +102,9 @@ By the end of the course, learners should be able to:
 - Use essential Git commands confidently.
 - Create branches and merge changes.
 - Work with remote repositories.
-- Understand the foundations of collaborative development.
+- Understand GitHub forks, collaborators, and pull requests.
+- Contribute to collaborative projects using GitHub and GitLab.
+- Understand the foundations of collaborative software development.
 
 ## 💻 Getting Started
 
@@ -147,11 +161,11 @@ git log
 
 ## 🌱 Final Note
 
-Git is more than a collection of commands. It's a fundamental tool for tracking progress, managing code, and working effectively with other developers.
+Git is more than a collection of commands. It is a fundamental tool for tracking progress, managing code, and working effectively with other developers.
 
-The best way to learn Git is to practice, experiment, make mistakes, and understand how to fix them.
+This course provides a starting point for students to explore version control, practice collaborative workflows, and contribute to real-world projects.
 
-**Learn by doing. Commit your progress. Keep improving.**
+**Learn by doing. Commit your progress. Collaborate and keep improving.**
 
 ---
 
